@@ -1,0 +1,23 @@
+{
+    "name": "pilskalns/halpers",
+    "description": "Dumb use of little functions I happen to share between every project",
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "Andzs Pilskalns",
+            "email": "andzs@pilskalns.lv"
+        }
+    ],
+    "require": {},
+    "repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/pilskalns/halpers"
+		}
+	],
+    "autoload": {
+        "files": [
+            "lib/halpers.php"
+        ]
+    }
+}
